@@ -1,0 +1,27 @@
+## 📁 Project Structure
+
+```
+career copilot/
+├── app.py                     # Main Streamlit application
+├── config.py                  # Central configuration
+├── requirements.txt
+├── .env.example
+├── modules/
+│   ├── resume_parser.py       # PDF/DOCX extraction
+│   ├── skill_extractor.py     # NLP skill extraction
+│   ├── gap_analyzer.py        # Skill gap analysis (FAISS)
+│   ├── roadmap_generator.py   # AI roadmap (Gemini)
+│   ├── job_recommender.py     # Opportunity recommendations
+│   ├── course_recommender.py  # Course recommendations
+│   ├── interview_engine.py    # Q&A generation + evaluation
+│   ├── scoring_engine.py      # ATS, Skill, Employability scores
+│   ├── chat_assistant.py      # Conversational AI assistant
+│   └── history_manager.py     # SQLite + PDF reports
+├── data/
+│   ├── skills_db.json         # 500+ skills taxonomy
+│   ├── job_roles.json         # 20+ roles with requirements
+│   ├── courses_db.json        # 200+ courses across platforms
+│   └── opportunities.json     # Jobs, internships, hackathons, etc.
+└── ui/
+    ├── styles.css             # Dark glassmorphism theme
+    └── components.py          # Reusable UI components
