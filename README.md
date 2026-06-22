@@ -57,13 +57,7 @@ cp .env.example .env
 
 Get a free Gemini API key at: https://aistudio.google.com/
 
-### 3. Run
 
-```bash
-streamlit run app.py
-```
-
-Then open http://localhost:8501 in your browser.
 
 ---
 
@@ -96,42 +90,7 @@ career copilot/
     └── components.py          # Reusable UI components
 ```
 
----
 
-## 🎨 Design System
 
-- **Theme**: Dark glassmorphism
-- **Primary**: Cyan `#00d2ff`
-- **Secondary**: Purple `#7b2ff7`
-- **Font**: Inter + Space Grotesk (Google Fonts)
-- **Charts**: Plotly (radar, donut, bar, line, Gantt)
 
----
 
-## 🔑 API Key Notes
-
-- Gemini API is **free** with generous rate limits
-- The app works without a key (rule-based fallbacks for all AI features)
-- With an API key, you get: AI roadmaps, AI interview questions, AI evaluations, AI chat
-
----
-
-## 📦 Deployment
-
-### Streamlit Cloud
-1. Push to GitHub
-2. Go to share.streamlit.io
-3. Add `GEMINI_API_KEY` to secrets
-4. Deploy!
-
-### Local Docker
-```bash
-docker build -t career-copilot .
-docker run -p 8501:8501 career-copilot
-```
-
----
-
-## 📄 License
-
-MIT License — free to use and modify.
