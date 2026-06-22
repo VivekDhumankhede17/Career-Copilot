@@ -1,0 +1,57 @@
+🚀 How to Clone & Run Career Copilot
+✅ Prerequisites
+Make sure these are installed first:
+
+Tool	Version	Download
+Python	3.9 or higher	https://www.python.org/downloads/
+Git	Any recent version	https://git-scm.com/downloads
+Verify by running:
+
+bash
+python --version
+git --version
+pip --version
+📥 Step 1 — Clone the Repository
+bash
+git clone https://github.com/VivekDhumankhede17/Career-Copilot.git
+📂 Step 2 — Go into the Project Folder
+bash
+cd Career-Copilot
+🐍 Step 3 — Create a Virtual Environment
+Windows:
+
+bash
+python -m venv venv
+venv\Scripts\activate
+macOS / Linux:
+
+bash
+python3 -m venv venv
+source venv/bin/activate
+✅ You'll see (venv) in your terminal — that means it's active.
+
+📦 Step 4 — Install Dependencies
+bash
+pip install -r requirements.txt
+🧠 Step 5 — Download spaCy Language Model
+bash
+python -m spacy download en_core_web_sm
+🔑 Step 6 — Set Up Gemini API Key
+Go to 👉 https://aistudio.google.com/
+Sign in with Google → Click "Get API Key" → "Create API key"
+Copy the key
+Option A (Easiest): Paste the key directly in the app's sidebar after launching
+
+Option B (via .env file):
+
+bash
+# Windows
+copy .env.example .env
+# macOS / Linux
+cp .env.example .env
+Then open .env and set:
+
+GEMINI_API_KEY=your_actual_api_key_here
+▶️ Step 7 — Run the App
+bash
+streamlit run app.py
