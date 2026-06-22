@@ -1,0 +1,184 @@
+{
+  "roles": {
+    "Software Engineer": {
+      "required_skills": ["Python", "Java", "Data Structures", "Algorithms", "Git", "SQL", "REST API", "Problem Solving", "System Design", "Object Oriented Programming"],
+      "preferred_skills": ["Docker", "Kubernetes", "CI/CD", "Microservices", "AWS", "TypeScript"],
+      "education": ["B.Tech Computer Science", "B.E.", "MCA", "M.Tech"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$85,000 - $140,000",
+      "growth": "High",
+      "description": "Design, develop, and maintain software systems"
+    },
+    "Data Scientist": {
+      "required_skills": ["Python", "Machine Learning", "Statistical Analysis", "Pandas", "NumPy", "SQL", "Data Visualization", "Scikit-learn", "Jupyter Notebook"],
+      "preferred_skills": ["Deep Learning", "TensorFlow", "PyTorch", "Spark", "NLP", "A/B Testing", "Tableau"],
+      "education": ["B.Tech", "M.Tech", "M.Sc Statistics", "Ph.D"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$95,000 - $160,000",
+      "growth": "Very High",
+      "description": "Extract insights from complex datasets using ML and statistics"
+    },
+    "Machine Learning Engineer": {
+      "required_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "MLOps", "Docker", "Git", "SQL", "Feature Engineering"],
+      "preferred_skills": ["Kubernetes", "Spark", "Kafka", "FAISS", "LangChain", "Hugging Face Transformers", "Cloud Platforms"],
+      "education": ["B.Tech", "M.Tech", "Ph.D"],
+      "experience_years": {"entry": 1, "mid": 4, "senior": 7},
+      "avg_salary": "$110,000 - $180,000",
+      "growth": "Very High",
+      "description": "Build, deploy and scale ML models in production"
+    },
+    "Frontend Developer": {
+      "required_skills": ["HTML5", "CSS3", "JavaScript", "React", "Git", "REST API", "Responsive Design", "TypeScript"],
+      "preferred_skills": ["Next.js", "Vue.js", "Redux", "Tailwind CSS", "Testing", "Webpack", "GraphQL"],
+      "education": ["B.Tech", "B.Sc Computer Science", "Self-taught"],
+      "experience_years": {"entry": 0, "mid": 2, "senior": 5},
+      "avg_salary": "$75,000 - $130,000",
+      "growth": "High",
+      "description": "Build user-facing web interfaces"
+    },
+    "Backend Developer": {
+      "required_skills": ["Python", "Node.js", "SQL", "REST API", "Git", "Docker", "System Design", "Databases"],
+      "preferred_skills": ["Microservices", "Kubernetes", "Redis", "Message Queues", "GraphQL", "Terraform"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$80,000 - $140,000",
+      "growth": "High",
+      "description": "Develop server-side logic and APIs"
+    },
+    "Full Stack Developer": {
+      "required_skills": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "SQL", "MongoDB", "Git", "REST API"],
+      "preferred_skills": ["TypeScript", "Docker", "AWS", "GraphQL", "Redux", "CI/CD"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$85,000 - $145,000",
+      "growth": "High",
+      "description": "Work across the full web development stack"
+    },
+    "DevOps Engineer": {
+      "required_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Terraform", "Git", "Bash", "Monitoring"],
+      "preferred_skills": ["Ansible", "Jenkins", "Prometheus", "Grafana", "GitLab CI", "Security"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 1, "mid": 3, "senior": 6},
+      "avg_salary": "$90,000 - $150,000",
+      "growth": "High",
+      "description": "Automate and optimize software delivery pipelines"
+    },
+    "Cloud Architect": {
+      "required_skills": ["AWS", "Google Cloud Platform", "Microsoft Azure", "Terraform", "Kubernetes", "Microservices", "Security", "Networking"],
+      "preferred_skills": ["Multi-cloud", "Cost Optimization", "Serverless", "SRE"],
+      "education": ["B.Tech", "M.Tech", "Cloud Certifications"],
+      "experience_years": {"entry": 3, "mid": 6, "senior": 10},
+      "avg_salary": "$130,000 - $200,000",
+      "growth": "High",
+      "description": "Design and oversee cloud infrastructure"
+    },
+    "Cybersecurity Analyst": {
+      "required_skills": ["Network Security", "Penetration Testing", "SIEM", "Incident Response", "Linux", "Cryptography", "Vulnerability Assessment"],
+      "preferred_skills": ["Ethical Hacking", "OSINT", "Malware Analysis", "CISSP", "CEH"],
+      "education": ["B.Tech", "B.Sc", "Security Certifications"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$85,000 - $140,000",
+      "growth": "Very High",
+      "description": "Protect systems from cyber threats"
+    },
+    "Data Analyst": {
+      "required_skills": ["SQL", "Python", "Excel", "Data Visualization", "Pandas", "Tableau", "Statistics", "Business Intelligence"],
+      "preferred_skills": ["Power BI", "R", "Machine Learning", "A/B Testing", "Looker"],
+      "education": ["B.Com", "B.Sc Statistics", "B.Tech", "MBA"],
+      "experience_years": {"entry": 0, "mid": 2, "senior": 5},
+      "avg_salary": "$65,000 - $110,000",
+      "growth": "High",
+      "description": "Analyze data to derive actionable business insights"
+    },
+    "Android Developer": {
+      "required_skills": ["Kotlin", "Java", "Android SDK", "XML", "Git", "REST API", "SQLite"],
+      "preferred_skills": ["Jetpack Compose", "MVVM", "Firebase", "Testing", "CI/CD"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 0, "mid": 2, "senior": 5},
+      "avg_salary": "$80,000 - $135,000",
+      "growth": "High",
+      "description": "Build native Android applications"
+    },
+    "iOS Developer": {
+      "required_skills": ["Swift", "Xcode", "iOS SDK", "SwiftUI", "Git", "REST API"],
+      "preferred_skills": ["Objective-C", "Core Data", "Firebase", "CI/CD", "MVVM"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 0, "mid": 2, "senior": 5},
+      "avg_salary": "$85,000 - $140,000",
+      "growth": "Moderate",
+      "description": "Build native iOS applications"
+    },
+    "NLP Engineer": {
+      "required_skills": ["Python", "NLP", "Hugging Face Transformers", "BERT", "spaCy", "Machine Learning", "Deep Learning", "NLTK"],
+      "preferred_skills": ["LangChain", "GPT", "RAG", "Vector Databases", "PyTorch", "TensorFlow"],
+      "education": ["B.Tech", "M.Tech", "Ph.D"],
+      "experience_years": {"entry": 1, "mid": 3, "senior": 6},
+      "avg_salary": "$105,000 - $170,000",
+      "growth": "Very High",
+      "description": "Build language understanding systems"
+    },
+    "Product Manager": {
+      "required_skills": ["Product Strategy", "Agile", "Roadmapping", "User Research", "Data Analysis", "Communication", "Stakeholder Management"],
+      "preferred_skills": ["SQL", "A/B Testing", "UX Design", "Market Research", "Scrum"],
+      "education": ["MBA", "B.Tech", "B.Sc"],
+      "experience_years": {"entry": 2, "mid": 5, "senior": 8},
+      "avg_salary": "$100,000 - $170,000",
+      "growth": "High",
+      "description": "Define product vision and drive development"
+    },
+    "UI/UX Designer": {
+      "required_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "UI Design", "UX Design", "Adobe XD"],
+      "preferred_skills": ["HTML5", "CSS3", "Motion Design", "Accessibility", "Design Systems"],
+      "education": ["B.Design", "B.Tech", "BFA"],
+      "experience_years": {"entry": 0, "mid": 2, "senior": 5},
+      "avg_salary": "$70,000 - $120,000",
+      "growth": "Moderate",
+      "description": "Design intuitive and beautiful user experiences"
+    },
+    "Blockchain Developer": {
+      "required_skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "JavaScript", "Cryptography"],
+      "preferred_skills": ["Rust", "Go", "DeFi", "NFT", "Hyperledger", "Polkadot"],
+      "education": ["B.Tech", "Self-taught"],
+      "experience_years": {"entry": 1, "mid": 3, "senior": 6},
+      "avg_salary": "$100,000 - $180,000",
+      "growth": "Moderate",
+      "description": "Build decentralized applications and smart contracts"
+    },
+    "Embedded Systems Engineer": {
+      "required_skills": ["C", "C++", "Microcontrollers", "RTOS", "Embedded Linux", "Hardware Protocols", "Assembly"],
+      "preferred_skills": ["FPGA", "IoT", "Python", "PCB Design", "Signal Processing"],
+      "education": ["B.Tech Electronics", "B.Tech ECE"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$80,000 - $130,000",
+      "growth": "Moderate",
+      "description": "Program hardware and embedded systems"
+    },
+    "Game Developer": {
+      "required_skills": ["C++", "Unity", "Unreal Engine", "C#", "Game Design", "3D Math", "Physics"],
+      "preferred_skills": ["Blender", "Shader Programming", "AI for Games", "Multiplayer"],
+      "education": ["B.Tech", "B.Sc Game Design"],
+      "experience_years": {"entry": 0, "mid": 3, "senior": 6},
+      "avg_salary": "$70,000 - $130,000",
+      "growth": "Moderate",
+      "description": "Build interactive games across platforms"
+    },
+    "Research Scientist": {
+      "required_skills": ["Python", "Deep Learning", "PyTorch", "Research Methodology", "Mathematics", "Statistics", "Paper Writing"],
+      "preferred_skills": ["CUDA", "High-Performance Computing", "JAX", "Transformers"],
+      "education": ["M.Tech", "Ph.D"],
+      "experience_years": {"entry": 3, "mid": 6, "senior": 10},
+      "avg_salary": "$120,000 - $200,000",
+      "growth": "High",
+      "description": "Advance the state-of-the-art in AI/ML research"
+    },
+    "Site Reliability Engineer": {
+      "required_skills": ["Linux", "Python", "Kubernetes", "Monitoring", "Incident Management", "SLO/SLA", "Docker", "CI/CD"],
+      "preferred_skills": ["Go", "Prometheus", "Distributed Systems", "Chaos Engineering"],
+      "education": ["B.Tech", "B.Sc"],
+      "experience_years": {"entry": 2, "mid": 4, "senior": 7},
+      "avg_salary": "$110,000 - $175,000",
+      "growth": "High",
+      "description": "Ensure reliability and scalability of production systems"
+    }
+  }
+}

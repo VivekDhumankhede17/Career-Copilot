@@ -1,0 +1,40 @@
+# Core Framework
+streamlit>=1.35.0
+streamlit-option-menu>=0.3.6
+
+# LLM & AI
+google-generativeai>=0.7.0
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-community>=0.2.0
+openai>=1.30.0
+
+# Embeddings & Vector Store
+sentence-transformers>=3.0.0
+chromadb>=0.5.0
+faiss-cpu>=1.8.0
+
+# NLP
+spacy>=3.7.0
+transformers>=4.40.0
+
+# Resume Parsing
+pdfplumber>=0.11.0
+python-docx>=1.1.0
+
+# Data & ML
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+
+# Visualization
+plotly>=5.22.0
+
+# PDF Export
+reportlab>=4.2.0
+fpdf2>=2.7.9
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.32.0
+Pillow>=10.3.0

@@ -1,0 +1,99 @@
+{
+  "courses": {
+    "Python": [
+      {"title": "Python for Everybody Specialization", "platform": "Coursera", "instructor": "Dr. Chuck", "level": "Beginner", "free": true, "url": "https://www.coursera.org/specializations/python", "duration": "8 months", "rating": 4.8},
+      {"title": "Complete Python Bootcamp", "platform": "Udemy", "instructor": "Jose Portilla", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/complete-python-bootcamp/", "duration": "22 hours", "rating": 4.7},
+      {"title": "Python Tutorial - Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=rfscVS0vtbw", "duration": "4.5 hours", "rating": 4.9}
+    ],
+    "Machine Learning": [
+      {"title": "Machine Learning Specialization", "platform": "Coursera", "instructor": "Andrew Ng", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/specializations/machine-learning-introduction", "duration": "3 months", "rating": 4.9},
+      {"title": "Machine Learning A-Z", "platform": "Udemy", "instructor": "Kirill Eremenko", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/machinelearning/", "duration": "44 hours", "rating": 4.5},
+      {"title": "Machine Learning Course - Full", "platform": "YouTube", "instructor": "StatQuest", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI", "duration": "3.5 hours", "rating": 4.8}
+    ],
+    "Deep Learning": [
+      {"title": "Deep Learning Specialization", "platform": "Coursera", "instructor": "Andrew Ng", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/specializations/deep-learning", "duration": "5 months", "rating": 4.9},
+      {"title": "PyTorch for Deep Learning", "platform": "Udemy", "instructor": "Daniel Bourke", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/pytorch-for-deep-learning/", "duration": "43 hours", "rating": 4.7},
+      {"title": "Deep Learning Full Course", "platform": "YouTube", "instructor": "Sentdex", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=aircAruvnKk", "duration": "6 hours", "rating": 4.7}
+    ],
+    "Natural Language Processing": [
+      {"title": "Natural Language Processing Specialization", "platform": "Coursera", "instructor": "DeepLearning.AI", "level": "Advanced", "free": true, "url": "https://www.coursera.org/specializations/natural-language-processing", "duration": "4 months", "rating": 4.7},
+      {"title": "NLP with Transformers", "platform": "Udemy", "instructor": "Lazy Programmer", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/natural-language-processing-with-transformers/", "duration": "12 hours", "rating": 4.5},
+      {"title": "Hugging Face NLP Course", "platform": "YouTube", "instructor": "Hugging Face", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=QEaBAZQCtwE", "duration": "5 hours", "rating": 4.8}
+    ],
+    "React": [
+      {"title": "React - The Complete Guide", "platform": "Udemy", "instructor": "Maximilian Schwarzmüller", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/", "duration": "68 hours", "rating": 4.7},
+      {"title": "Full Stack Open 2024", "platform": "edX", "instructor": "University of Helsinki", "level": "Intermediate", "free": true, "url": "https://fullstackopen.com/", "duration": "6 months", "rating": 4.8},
+      {"title": "React JS Full Course", "platform": "YouTube", "instructor": "Traversy Media", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=w7ejDZ8SWv8", "duration": "7 hours", "rating": 4.7}
+    ],
+    "Docker": [
+      {"title": "Docker Mastery", "platform": "Udemy", "instructor": "Bret Fisher", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/docker-mastery/", "duration": "23 hours", "rating": 4.7},
+      {"title": "Docker & Kubernetes: The Practical Guide", "platform": "Udemy", "instructor": "Maximilian Schwarzmüller", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/", "duration": "23 hours", "rating": 4.7},
+      {"title": "Docker Tutorial for Beginners", "platform": "YouTube", "instructor": "TechWorld with Nana", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=3c-iBn73dDE", "duration": "3 hours", "rating": 4.9}
+    ],
+    "AWS": [
+      {"title": "AWS Certified Solutions Architect", "platform": "Coursera", "instructor": "Amazon", "level": "Intermediate", "free": false, "url": "https://www.coursera.org/learn/aws-certified-solutions-architect-associate", "duration": "3 months", "rating": 4.6},
+      {"title": "Ultimate AWS Certified Developer", "platform": "Udemy", "instructor": "Stephane Maarek", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/", "duration": "32 hours", "rating": 4.7},
+      {"title": "AWS Tutorial Full Course", "platform": "YouTube", "instructor": "Simplilearn", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=k1RI5locZE4", "duration": "5 hours", "rating": 4.5}
+    ],
+    "SQL": [
+      {"title": "SQL for Data Science", "platform": "Coursera", "instructor": "UC Davis", "level": "Beginner", "free": true, "url": "https://www.coursera.org/learn/sql-for-data-science", "duration": "4 weeks", "rating": 4.6},
+      {"title": "The Complete SQL Bootcamp", "platform": "Udemy", "instructor": "Jose Portilla", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/", "duration": "9 hours", "rating": 4.7},
+      {"title": "SQL Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY", "duration": "4 hours", "rating": 4.8}
+    ],
+    "Kubernetes": [
+      {"title": "Kubernetes for Beginners", "platform": "Udemy", "instructor": "KodeKloud", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/learn-kubernetes/", "duration": "8 hours", "rating": 4.6},
+      {"title": "Certified Kubernetes Administrator", "platform": "edX", "instructor": "Linux Foundation", "level": "Advanced", "free": false, "url": "https://www.edx.org/course/introduction-to-kubernetes", "duration": "14 weeks", "rating": 4.7},
+      {"title": "Kubernetes Tutorial Beginners", "platform": "YouTube", "instructor": "TechWorld with Nana", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=X48VuDVv0do", "duration": "4 hours", "rating": 4.9}
+    ],
+    "Data Structures": [
+      {"title": "Algorithms Specialization", "platform": "Coursera", "instructor": "Stanford University", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/specializations/algorithms", "duration": "4 months", "rating": 4.8},
+      {"title": "Master the Coding Interview: Data Structures", "platform": "Udemy", "instructor": "Andrei Neagoie", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/", "duration": "19 hours", "rating": 4.6},
+      {"title": "Data Structures - Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM", "duration": "8 hours", "rating": 4.9}
+    ],
+    "JavaScript": [
+      {"title": "JavaScript Algorithms and Data Structures", "platform": "Coursera", "instructor": "Meta", "level": "Beginner", "free": true, "url": "https://www.coursera.org/learn/meta-javascript", "duration": "6 weeks", "rating": 4.6},
+      {"title": "The Complete JavaScript Course 2024", "platform": "Udemy", "instructor": "Jonas Schmedtmann", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/the-complete-javascript-course/", "duration": "69 hours", "rating": 4.8},
+      {"title": "JavaScript Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=jS4aFq5-91M", "duration": "7 hours", "rating": 4.8}
+    ],
+    "TensorFlow": [
+      {"title": "TensorFlow Developer Professional Certificate", "platform": "Coursera", "instructor": "DeepLearning.AI", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice", "duration": "4 months", "rating": 4.7},
+      {"title": "TensorFlow 2.0 Complete Course", "platform": "Udemy", "instructor": "Lazy Programmer", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/", "duration": "15 hours", "rating": 4.5},
+      {"title": "TensorFlow Tutorial Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk", "duration": "6 hours", "rating": 4.7}
+    ],
+    "System Design": [
+      {"title": "Grokking System Design Interview", "platform": "Coursera", "instructor": "Design Gurus", "level": "Advanced", "free": false, "url": "https://www.coursera.org/learn/system-design-interview", "duration": "8 weeks", "rating": 4.7},
+      {"title": "System Design Interview Course", "platform": "Udemy", "instructor": "Frank Kane", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/system-design-interview-prep/", "duration": "14 hours", "rating": 4.5},
+      {"title": "System Design Full Course", "platform": "YouTube", "instructor": "Gaurav Sen", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=xpDnVSmNFX0", "duration": "5 hours", "rating": 4.9}
+    ],
+    "Figma": [
+      {"title": "UI/UX Design Specialization", "platform": "Coursera", "instructor": "CalArts", "level": "Beginner", "free": true, "url": "https://www.coursera.org/specializations/ui-ux-design", "duration": "4 months", "rating": 4.5},
+      {"title": "UI/UX Design Bootcamp with Figma", "platform": "Udemy", "instructor": "Daniel Walter Scott", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/", "duration": "18 hours", "rating": 4.7},
+      {"title": "Figma Full Course 2024", "platform": "YouTube", "instructor": "DesignCourse", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=FTFaQWZBqQ8", "duration": "3 hours", "rating": 4.8}
+    ],
+    "Git": [
+      {"title": "Version Control with Git", "platform": "Coursera", "instructor": "Atlassian", "level": "Beginner", "free": true, "url": "https://www.coursera.org/learn/version-control-with-git", "duration": "4 weeks", "rating": 4.6},
+      {"title": "Git & GitHub - The Practical Guide", "platform": "Udemy", "instructor": "Maximilian Schwarzmüller", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/git-github-practical-guide/", "duration": "11 hours", "rating": 4.8},
+      {"title": "Git and GitHub for Beginners", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=RGOj5yH7evk", "duration": "1 hour", "rating": 4.9}
+    ],
+    "Pandas": [
+      {"title": "Data Analysis with Python", "platform": "Coursera", "instructor": "IBM", "level": "Beginner", "free": true, "url": "https://www.coursera.org/learn/data-analysis-with-python", "duration": "6 weeks", "rating": 4.5},
+      {"title": "Data Analysis with Pandas and Python", "platform": "Udemy", "instructor": "Boris Paskhaver", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/data-analysis-with-pandas/", "duration": "19 hours", "rating": 4.6},
+      {"title": "Pandas Full Course", "platform": "YouTube", "instructor": "Keith Galli", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=vmEHCJofslg", "duration": "1 hour", "rating": 4.8}
+    ],
+    "Node.js": [
+      {"title": "Server-side JavaScript with Node.js", "platform": "Coursera", "instructor": "NIIT", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/learn/server-side-javascript", "duration": "5 weeks", "rating": 4.4},
+      {"title": "The Complete Node.js Developer Course", "platform": "Udemy", "instructor": "Andrew Mead", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/", "duration": "35 hours", "rating": 4.7},
+      {"title": "Node.js Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=Oe421EPjeBE", "duration": "8 hours", "rating": 4.8}
+    ],
+    "Cybersecurity": [
+      {"title": "IBM Cybersecurity Analyst Professional Certificate", "platform": "Coursera", "instructor": "IBM", "level": "Beginner", "free": true, "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst", "duration": "8 months", "rating": 4.6},
+      {"title": "The Complete Cybersecurity Bootcamp", "platform": "Udemy", "instructor": "Nathan House", "level": "Beginner", "free": false, "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/", "duration": "25 hours", "rating": 4.5},
+      {"title": "Ethical Hacking Full Course", "platform": "YouTube", "instructor": "freeCodeCamp", "level": "Intermediate", "free": true, "url": "https://www.youtube.com/watch?v=3Kq1MIfTWCE", "duration": "15 hours", "rating": 4.7}
+    ],
+    "Blockchain": [
+      {"title": "Blockchain Specialization", "platform": "Coursera", "instructor": "University at Buffalo", "level": "Intermediate", "free": true, "url": "https://www.coursera.org/specializations/blockchain", "duration": "4 months", "rating": 4.5},
+      {"title": "Ethereum Blockchain Developer Bootcamp", "platform": "Udemy", "instructor": "Thomas Wiesner", "level": "Intermediate", "free": false, "url": "https://www.udemy.com/course/blockchain-developer/", "duration": "21 hours", "rating": 4.5},
+      {"title": "Blockchain Full Course", "platform": "YouTube", "instructor": "Dapp University", "level": "Beginner", "free": true, "url": "https://www.youtube.com/watch?v=coQ5dg8wM2o", "duration": "3 hours", "rating": 4.6}
+    ]
+  }
+}

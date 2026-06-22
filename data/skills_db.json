@@ -1,0 +1,66 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "C", "Go", "Rust", "Kotlin",
+      "Swift", "Ruby", "PHP", "Scala", "R", "MATLAB", "Perl", "Dart", "Elixir", "Haskell",
+      "SQL", "Bash", "Shell Scripting", "PowerShell", "Assembly", "Lua", "Julia"
+    ],
+    "web_development": [
+      "HTML5", "CSS3", "React", "Next.js", "Vue.js", "Angular", "Svelte", "Node.js", "Express.js",
+      "Django", "Flask", "FastAPI", "Spring Boot", "Laravel", "Ruby on Rails", "ASP.NET",
+      "GraphQL", "REST API", "WebSockets", "Redux", "Tailwind CSS", "Bootstrap", "SASS", "LESS",
+      "Webpack", "Vite", "Gatsby", "Nuxt.js", "Three.js", "D3.js"
+    ],
+    "data_science_ml": [
+      "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision",
+      "Reinforcement Learning", "Statistical Analysis", "Data Analysis", "Data Visualization",
+      "Feature Engineering", "Model Deployment", "TensorFlow", "PyTorch", "Keras", "Scikit-learn",
+      "XGBoost", "LightGBM", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
+      "Hugging Face Transformers", "BERT", "GPT", "LangChain", "LlamaIndex", "OpenCV",
+      "NLTK", "spaCy", "Gensim", "Sentence Transformers", "FAISS", "ChromaDB",
+      "A/B Testing", "Hypothesis Testing", "Regression Analysis", "Classification",
+      "Clustering", "Dimensionality Reduction", "Time Series Analysis"
+    ],
+    "databases": [
+      "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis", "Cassandra", "DynamoDB",
+      "Elasticsearch", "Neo4j", "Firebase", "Supabase", "Oracle Database",
+      "Microsoft SQL Server", "MariaDB", "InfluxDB", "CouchDB", "Pinecone", "Weaviate"
+    ],
+    "cloud_devops": [
+      "AWS", "Google Cloud Platform", "Microsoft Azure", "Docker", "Kubernetes",
+      "CI/CD", "Jenkins", "GitHub Actions", "GitLab CI", "Terraform", "Ansible",
+      "Linux", "Nginx", "Apache", "Microservices", "Serverless", "Lambda",
+      "EC2", "S3", "RDS", "CloudFormation", "Helm", "ArgoCD", "Prometheus", "Grafana"
+    ],
+    "mobile_development": [
+      "Android Development", "iOS Development", "React Native", "Flutter",
+      "Xamarin", "Ionic", "Swift", "Kotlin", "SwiftUI", "Jetpack Compose"
+    ],
+    "cybersecurity": [
+      "Network Security", "Penetration Testing", "Ethical Hacking", "Cryptography",
+      "Vulnerability Assessment", "OWASP", "Wireshark", "Metasploit", "Burp Suite",
+      "SIEM", "Firewall Management", "SOC", "Incident Response", "Malware Analysis"
+    ],
+    "tools_platforms": [
+      "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence", "Slack",
+      "VS Code", "IntelliJ IDEA", "Eclipse", "Postman", "Swagger", "Figma",
+      "Adobe XD", "Tableau", "Power BI", "Excel", "Google Analytics", "Jupyter Notebook",
+      "Google Colab", "Apache Spark", "Apache Kafka", "RabbitMQ", "Airflow"
+    ]
+  },
+  "soft_skills": [
+    "Problem Solving", "Critical Thinking", "Communication", "Teamwork", "Leadership",
+    "Time Management", "Adaptability", "Creativity", "Project Management", "Attention to Detail",
+    "Analytical Thinking", "Presentation Skills", "Negotiation", "Conflict Resolution",
+    "Mentoring", "Decision Making", "Self-Motivation", "Customer Service", "Empathy"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect", "AWS Certified Developer", "Google Cloud Professional",
+    "Microsoft Azure Administrator", "Certified Kubernetes Administrator (CKA)",
+    "Certified Ethical Hacker (CEH)", "CompTIA Security+", "PMP", "Scrum Master (CSM)",
+    "Google Analytics Certification", "TensorFlow Developer Certificate",
+    "Deep Learning Specialization", "Machine Learning Specialization",
+    "Meta Front-End Developer", "IBM Data Science Professional", "Oracle Java SE",
+    "Cisco CCNA", "Certified Information Systems Security Professional (CISSP)"
+  ]
+}
